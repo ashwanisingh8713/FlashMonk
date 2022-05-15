@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "557018581646",
+    "project_id": "flashmonk-mvp",
+    "storage_bucket": "flashmonk-mvp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557018581646:android:6954c0187df583ac3617df",
+        "android_client_info": {
+          "package_name": "com.flashmonk.mvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557018581646-1l81jp24moibi643pr61oeev1k5e2p6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flashmonk.mvp",
+            "certificate_hash": "6a1ea8560b899d7606fe85542d00e282b517bd82"
+          }
+        },
+        {
+          "client_id": "557018581646-8fgui0fb7v2rhnb07jghg7dr83c4p67j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flashmonk.mvp",
+            "certificate_hash": "5b9df5715814f2ba0f2bfc4dcaf7038b2c5a816f"
+          }
+        },
+        {
+          "client_id": "557018581646-2rpanaosselsc9ml4h7md9q45lgp1k3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrVtw2qtzW__JZlOolb-8feWkli1W7V4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557018581646-2rpanaosselsc9ml4h7md9q45lgp1k3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "557018581646-bcotr244km60ks47qg0i0ka2bj9d6t53.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flashmonk.mvp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
